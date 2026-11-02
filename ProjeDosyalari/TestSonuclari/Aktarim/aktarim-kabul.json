@@ -1,0 +1,178 @@
+{
+  "passed": true,
+  "count": 34,
+  "failures": 0,
+  "tests": [
+    {
+      "name": "AI Masa\u00FCst\u00FCnde klas\u00F6r ve dosya olu\u015Fturur",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI yal\u0131n g\u00F6reli yolu yaln\u0131z Masa\u00FCst\u00FCne yazar",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI d\u0131\u015F yol reddi: Belgeler/x.txt",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI d\u0131\u015F yol reddi: Projeler/x.txt",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI d\u0131\u015F yol reddi: Resimler/x.txt",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI d\u0131\u015F yol reddi: ../x.txt",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI d\u0131\u015F yol reddi: Masaustu/../x.txt",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI d\u0131\u015F yol reddi: Masaustu\\..\\Belgeler\\x.txt",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI d\u0131\u015F yol reddi: C:\\x.txt",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI d\u0131\u015F yol reddi: \\\\localhost\\share\\x.txt",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI d\u0131\u015F yol reddi: /",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI Masa\u00FCst\u00FC d\u0131\u015F\u0131n\u0131 listeleyemez veya okuyamaz",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI yeniden adland\u0131rmada kaynak ve hedefi s\u0131n\u0131rlar",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI Masa\u00FCst\u00FC k\u00F6k\u00FCn\u00FC ta\u015F\u0131yamaz",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI i\u00E7in ana PC aktar\u0131m arac\u0131 bulunmaz",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI oturumunda d\u0131\u015F yol reddi: LocalModel/ChatCompletions",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI oturumunda d\u0131\u015F yol reddi: LocalModel/Responses",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI oturumunda d\u0131\u015F yol reddi: OwnApi/ChatCompletions",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI oturumunda d\u0131\u015F yol reddi: OwnApi/Responses",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "\u0130\u00E7 i\u00E7e klas\u00F6r ta\u015F\u0131n\u0131r, i\u00E7erik ve bo\u015F klas\u00F6r korunur",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Ayn\u0131 isimde klas\u00F6r ezilmez",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Tek dosya ta\u015F\u0131n\u0131r ve ayn\u0131 isimde hedef korunur",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Bo\u015F klas\u00F6r ta\u015F\u0131n\u0131r",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "\u00D6nceden iptal edilen aktar\u0131m kayna\u011F\u0131 korur",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Kopyalama ortas\u0131nda iptal t\u00FCm sanal kaynaklar\u0131 korur",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Kilitli dosya varsa klas\u00F6rdeki hi\u00E7bir kaynak kald\u0131r\u0131lmaz",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Salt okunur kaynak kald\u0131r\u0131lmaz",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Sanal veri klas\u00F6r\u00FC hedef se\u00E7ilemez",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Sanal ana klas\u00F6rlerin kendisi ta\u015F\u0131namaz",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "G\u00F6reli, olmayan veya a\u011F hedefi reddedilir",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Kopyalama s\u0131ras\u0131nda eklenen kaynak alg\u0131lan\u0131r",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Hedefte junction engellenir",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Kaynak alt\u0131ndaki junction engellenir",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "D s\u00FCr\u00FCc\u00FCs\u00FCnden C s\u00FCr\u00FCc\u00FCs\u00FCne ger\u00E7ek klas\u00F6r aktar\u0131m\u0131",
+      "passed": true,
+      "error": ""
+    }
+  ],
+  "note": "Ger\u00E7ek dosya sistemi; kontroll\u00FC AI sa\u011Flay\u0131c\u0131s\u0131 sald\u0131r\u0131 arg\u00FCmanlar\u0131 s\u0131n\u0131r testi i\u00E7indir, ger\u00E7ek model olarak say\u0131lmaz."
+}

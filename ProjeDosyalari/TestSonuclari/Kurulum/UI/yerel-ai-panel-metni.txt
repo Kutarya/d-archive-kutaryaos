@@ -1,0 +1,9 @@
+KUTARYA US
+Bugün Okul-PC cihazında ne yapmak istersin?
+
+SEN
+Masaustu içinde Deneme adında bir klasör oluştur.
+
+İŞLEM
+Klasör oluşturuldu: Masaustu/Deneme
+

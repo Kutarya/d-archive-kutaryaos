@@ -1,0 +1,1 @@
+sınıf içeriği

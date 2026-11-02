@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "count": 13,
+  "checks": [
+    "\u0130lk kurulum penceresi boyand\u0131",
+    "Masa\u00FCst\u00FC ger\u00E7ekten g\u00F6sterildi",
+    "Uygulama simgelerinin tamam\u0131 ilk a\u00E7\u0131l\u0131\u015Fta g\u00F6r\u00FCn\u00FCr",
+    "D\u00F6rt ger\u00E7ek sanal uygulama penceresi a\u00E7\u0131ld\u0131",
+    "Pencerelerin RAM b\u00FCt\u00E7esi 240 MB",
+    "Pencere kapat\u0131nca b\u00FCt\u00E7e geri d\u00F6nd\u00FC",
+    "AI d\u00FC\u011Fmesi sa\u011F paneli a\u00E7t\u0131",
+    "AI ba\u011Flant\u0131 se\u00E7enekleri g\u00F6r\u00FCn\u00FCr",
+    "AI sekmesi yerel modeli otomatik y\u00FCkledi",
+    "Paneldeki ger\u00E7ek model dosya arac\u0131n\u0131 \u00E7al\u0131\u015Ft\u0131rd\u0131",
+    "Ayarlar iki AI y\u00F6ntemini sunuyor",
+    "Tema kal\u0131c\u0131 kaydedildi",
+    "Kapan\u0131\u015Fta kaynak s\u0131z\u0131nt\u0131s\u0131 yok"
+  ],
+  "evidence": "Ger\u00E7ek WinForms pencereleri Show/PerformClick/DrawToBitmap ile test edildi; fiziksel s\u00FCr\u00FCkleme yap\u0131lmad\u0131.",
+  "hardware": {
+    "TotalRamBytes": 16908316672,
+    "AvailableRamBytes": 2827988992,
+    "FreeDiskBytes": 64132857856,
+    "Drive": "D:\\",
+    "Gpus": [
+      {
+        "Name": "NVIDIA GeForce GTX 1650",
+        "DedicatedBytes": 4126146560,
+        "SharedBytes": 8454158336
+      },
+      {
+        "Name": "Intel(R) UHD Graphics",
+        "DedicatedBytes": 134217728,
+        "SharedBytes": 8454158336
+      }
+    ],
+    "MaximumRamMb": 14077,
+    "MaximumStorageGb": 57
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-05T15:28:26.349876+03:00",
+  "total": 34,
+  "passed": 34,
+  "failures": 0,
+  "hardware": {
+    "TotalRamBytes": 16908316672,
+    "AvailableRamBytes": 2362937344,
+    "FreeDiskBytes": 63342260224,
+    "Drive": "D:\\",
+    "Gpus": [
+      {
+        "Name": "NVIDIA GeForce GTX 1650",
+        "DedicatedBytes": 4126146560,
+        "SharedBytes": 8454158336
+      },
+      {
+        "Name": "Intel(R) UHD Graphics",
+        "DedicatedBytes": 134217728,
+        "SharedBytes": 8454158336
+      }
+    ],
+    "MaximumRamMb": 14077,
+    "MaximumStorageGb": 56
+  },
+  "tests": [
+    {
+      "name": "Ger\u00E7ek Windows RAM/disk ve DXGI GPU \u00F6l\u00E7\u00FCm\u00FC",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Cihaz ayarlar\u0131n\u0131n kal\u0131c\u0131 JSON d\u00F6n\u00FC\u015F\u00FC",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Ger\u00E7ek RAM s\u0131n\u0131r\u0131",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Ger\u00E7ek VRAM s\u0131n\u0131r\u0131",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Ger\u00E7ek disk s\u0131n\u0131r\u0131",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Ge\u00E7ersiz cihaz ad\u0131",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Sanal kaynak b\u00FCt\u00E7esi ve IDisposable iadesi",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "RAM b\u00FCt\u00E7esi a\u015F\u0131m\u0131",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Negatif b\u00FCt\u00E7e reddi",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Metin yazma/okuma ve UTF-8",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Mevcut dosyay\u0131 AI olu\u015Fturmas\u0131 ezemez",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Depolama kotas\u0131 ger\u00E7ekten uygulan\u0131r",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Kota hatas\u0131nda dosya sa\u011Flam kal\u0131r",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Yol/isim s\u0131n\u0131r\u0131: ../kacis.txt",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Yol/isim s\u0131n\u0131r\u0131: Masaustu/../../kacis.txt",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Yol/isim s\u0131n\u0131r\u0131: D:/kacis.txt",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Yol/isim s\u0131n\u0131r\u0131: Masaustu/a.txt:stream",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Yol/isim s\u0131n\u0131r\u0131: Masaustu/CON.txt",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Yol/isim s\u0131n\u0131r\u0131: Masaustu/a. ",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Olay ile dosya de\u011Fi\u015Fimi bildirimi",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Ger\u00E7ek dosya hash do\u011Frulamal\u0131 TA\u015EIMA",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "\u0130sim \u00E7ak\u0131\u015Fmas\u0131nda dosya ezilmez",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Kota dolunca ger\u00E7ek kaynak KORUNUR",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "\u0130ptal edilen ta\u015F\u0131ma kayna\u011F\u0131 korur",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Kilitli kaynakta veri korunur",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Kaynak silinemeyince do\u011Frulanm\u0131\u015F kopya ve kaynak birlikte korunur",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "\u00C7\u00F6p kutusu ve \u00E7ak\u0131\u015Fmas\u0131z geri y\u00FCkleme",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Klas\u00F6r ve dosya yeniden adland\u0131rma",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "DPAPI gizli ayarlar round-trip",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Uzak ba\u011Flant\u0131da d\u00FCz HTTP reddi",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI sanal disk d\u0131\u015F\u0131na dosya yazamaz",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "AI keyfi komut \u00E7al\u0131\u015Ft\u0131ramaz",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Ger\u00E7ek loopback HTTP, model listesi ve AI ara\u00E7 d\u00F6ng\u00FCs\u00FC: ChatCompletions",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "name": "Ger\u00E7ek loopback HTTP, model listesi ve AI ara\u00E7 d\u00F6ng\u00FCs\u00FC: Responses",
+      "passed": true,
+      "error": ""
+    }
+  ],
+  "realAiTested": false,
+  "note": "HTTP test sunucusu kontroll\u00FCd\u00FCr; ger\u00E7ek model de\u011Fildir."
+}

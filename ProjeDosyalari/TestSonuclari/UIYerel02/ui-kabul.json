@@ -1,0 +1,4 @@
+{
+  "passed": false,
+  "error": "System.Exception: Paneldeki ger\u00E7ek model dosya arac\u0131n\u0131 \u00E7al\u0131\u015Ft\u0131rd\u0131\r\n   at KutaryaOS.WinForms.UiSmoke.\u003C\u003Ec__DisplayClass0_0.\u003CRun\u003Eg__Check|0(String name, Boolean condition) in D:\\KutaryaOS\\ProjeDosyalari\\src\\KutaryaOS.WinForms\\UiSmoke.cs:line 15\r\n   at KutaryaOS.WinForms.UiSmoke.Run(String root, String modelRoot) in D:\\KutaryaOS\\ProjeDosyalari\\src\\KutaryaOS.WinForms\\UiSmoke.cs:line 59"
+}

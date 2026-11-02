@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "count": 8,
+  "checks": [
+    "Do\u011Frulanm\u0131\u015F indirme atomik tamamland\u0131",
+    "Bozuk final model yeniden indirildi",
+    "HTTP Range ile kesilen indirme s\u00FCrd\u00FC",
+    "Range yok say\u0131l\u0131nca dosya ba\u015Ftan yaz\u0131ld\u0131",
+    "Yanl\u0131\u015F SHA final dosyaya d\u00F6n\u00FC\u015Fmedi",
+    "\u0130ptal yaln\u0131z k\u0131smi dosya b\u0131rakt\u0131",
+    "\u0130ptal edilen indirme tekrar tamamland\u0131",
+    "Yerel mod API adresi olmadan kal\u0131c\u0131 kaydedildi"
+  ],
+  "realModel": false,
+  "evidence": "Kontroll\u00FC indirme sunucusu; ger\u00E7ek model \u00E7\u0131kar\u0131m\u0131 ayr\u0131 raporda."
+}

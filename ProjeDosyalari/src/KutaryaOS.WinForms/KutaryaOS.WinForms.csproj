@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType><TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms><ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <AssemblyName>KutaryaOS</AssemblyName><Product>Kutarya OS</Product><Version>0.3.0</Version>
+    <ApplicationIcon>../../assets/kutarya.ico</ApplicationIcon>
+    <Company>Kutarya</Company><Description>C# Windows Forms okul masaüstü projesi</Description>
+  </PropertyGroup>
+  <ItemGroup><ProjectReference Include="../KutaryaOS.Core/KutaryaOS.Core.csproj" /></ItemGroup>
+  <ItemGroup><EmbeddedResource Include="../../assets/kutarya-dag-golu.png" LogicalName="KutaryaOS.Wallpaper.png" /></ItemGroup>
+  <ItemGroup><EmbeddedResource Include="../../assets/kutarya.ico" LogicalName="KutaryaOS.Icon.ico" /></ItemGroup>
+</Project>

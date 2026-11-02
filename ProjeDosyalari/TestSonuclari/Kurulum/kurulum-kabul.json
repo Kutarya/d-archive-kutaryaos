@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "count": 10,
+  "checks": [
+    "Kurulan EXE dağıtım dosyasıyla aynı",
+    "Windows uygulama kaldırma kaydı oluşturuldu",
+    "Kurulu uygulama 34 çekirdek kontrolünü geçti",
+    "Kurulu uygulama 34 AI sınırı ve aktarım kontrolünü geçti",
+    "Kurulu uygulama 8 indirme kontrolünü geçti",
+    "Kurulu uygulama 20 gerçek yerel AI ve UI kontrolünü geçti",
+    "Yeniden kurulum kullanıcı dosyasını korudu",
+    "Kaldırma kurulu programı kaldırdı",
+    "Kaldırma kullanıcı dosyasını korudu",
+    "Kaldırma Windows uygulama kaydını kaldırdı"
+  ],
+  "fast": false,
+  "installerSha": "62911E0AA5AFCE674B6E64F63D4558BE029A3C0BDC11309A3CC2FC72D89D2174",
+  "exeSha": "6B351B18BB389AC8C78F24137A8B675A7BD13267455D649BC87B88E395FF7920",
+  "target": "D:\\KutaryaOS\\TestKurulum03",
+  "date": "2026-10-05T15:28:42.0721551+03:00"
+}
